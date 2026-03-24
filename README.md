@@ -224,20 +224,6 @@ Goal     : MS Abroad → Top Global MBA
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-[![Data Science](https://img.shields.io/badge/The%20Ultimate%20Job%20Ready%20Data%20Science%20Course-Sep%202025-00D9FF?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com)
-[![Prompt Engineering](https://img.shields.io/badge/ChatGPT--4%20Prompt%20Engineering%20%26%20LLMs-Aug%202025-FF6B6B?style=flat-square&logo=openai&logoColor=white)](https://www.udemy.com)
-[![No-Code AI](https://img.shields.io/badge/Build%20Generative%20AI%20Apps%20with%20No--Code-Aug%202025-9B59B6?style=flat-square&logo=google&logoColor=white)](https://www.udemy.com)
-[![Automata](https://img.shields.io/badge/Computational%20Theory%20%26%20Finite%20Automata-Aug%202025-2ECC71?style=flat-square&logo=academia&logoColor=white)](https://www.udemy.com)
-[![DSA Java](https://img.shields.io/badge/DSA%20using%20Java-CipherSchools%20Jul%202025-F39C12?style=flat-square&logo=java&logoColor=white)](https://www.cipherschools.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Random Dev Quote
