@@ -26,7 +26,7 @@
 Name     : Harshit Garg
 Role     : CS Undergrad → ML/Data/Backend Engineer
 College  : Lovely Professional University, Punjab
-Year     : 2nd Year (2023–2027)
+Year     : 3rd Year (2023–2027)
 Focus    : End-to-End AI Systems & Data Pipelines
 Grinding : DSA in Java | System Design | Cloud
 Goal     : MS Abroad → Top Global MBA
